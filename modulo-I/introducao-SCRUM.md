@@ -4,11 +4,11 @@
 
 Objetivo de negócio =>| Processo de desenvolvimentno =>| Software
 ----------------------|--------------------------------|---------
- requesitos           | Concepção
- requesitos			  | Análise e Design
- requesitos			  | Desenvolvimento
- requesitos			  | Testes
- requesitos		      | Implantação
+ requisitos           | Concepção
+ requisitos			  | Análise e Design
+ requisitos			  | Desenvolvimento
+ requisitos			  | Testes
+ requisitos		      | Implantação
 
            				
 
